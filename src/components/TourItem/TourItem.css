@@ -1,0 +1,47 @@
+.card-text {
+  font-size: 14px;
+  margin-bottom: 0;
+}
+.card-title {
+  width: fit-content;
+  padding: 5px;
+  margin: 0 !important;
+  position: absolute;
+  top: 0;
+  left: 0;
+  font-size: 13px !important;
+  font-weight: 500;
+  background: rgb(255 228 225 / 75%);
+}
+.react-read-more-read-less {
+  color: #e51e60;
+}
+.react-read-more-read-less:hover {
+  text-decoration: underline;
+}
+.price {
+  text-align: right;
+  display: block;
+  font-size: 14px;
+  font-weight: 500;
+}
+.interseted-btn {
+  background: #e51e60;
+  border-color: #e51e60;
+  margin-bottom: 5px;
+}
+.interseted-btn:hover {
+  color: #000;
+  background-color: transparent;
+  border-color: #e51e60;
+}
+.interseted-btn:focus {
+  box-shadow: 0 0 0 0.25rem rgb(229 30 96 / 50%);
+}
+.more-details a {
+  font-size: 13px;
+  text-decoration: none;
+}
+.more-details:hover a {
+  text-decoration: underline;
+}

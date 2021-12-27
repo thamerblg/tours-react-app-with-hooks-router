@@ -1,0 +1,8 @@
+.navbar-nav a {
+  color: #707070;
+  text-decoration: none;
+  padding-right: 10px;
+}
+.navbar-nav a:hover {
+  color: #000;
+}
